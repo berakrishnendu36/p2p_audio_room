@@ -9,8 +9,6 @@ Here I have used:-
 
 ### Screenshots
 
-<img src="./screenshots/ss1.jpg" alt="img1" width="250"/>  
-
-<img src="./screenshots/ss2.jpg" alt="img1" width="250"/>
+<img src="./screenshots/ss1.jpg" alt="img1" width="300"/>  <img src="./screenshots/ss2.jpg" alt="img1" width="300"/>
 
 ### Drop a ⭐ if you like it!
