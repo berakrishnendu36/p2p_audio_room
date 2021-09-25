@@ -2,6 +2,8 @@
 
 A simple audio room using peer to peer technology with WebRTC mesh network.
 
+[Download the app from here](https://github.com/berakrishnendu36/p2p_audio_room/releases/download/v1.0/audiochat.apk)
+
 Here I have used:-
  - flutter_webrtc for peer to peer connection.
  - A signalling server running socket.io
